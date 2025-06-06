@@ -38,6 +38,7 @@ Some of the charts in the project include:
 - Cumulative returns comparison
 - Risk-return scatterplot
 - Rolling volatility
+- Correlation linear Models
 
 ## 📚 Background
 
